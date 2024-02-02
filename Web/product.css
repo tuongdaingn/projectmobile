@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding-top: 10px;
+  margin-left: 10px;
+  display: table-cell;
+  width: 200px;
+  text-align: center;
+}
+
+.image img {
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+}
+
+.produc-infor {
+  text-align: center;
+}
+
+.btn {
+  color: aqua;
+  border-color: black;
+  border-radius: 30px;
+}
+
+.headline {
+  text-align: center;
+  margin: 20px 0;
+  padding-right: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  color: #111;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  border: 1px solid #bebebe;
+  color: #555;
+  display: inline-block;
+}
+
+.price {
+  color: grey;
+  font-size: 15px;
+}
+
+input[type="button"]:hover {
+  opacity: 0.7;
+  background-color: #111;
+}
+/* ====================== */
+/* .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    display: table-cell;
+  }
+  img{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+  }
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .btn{ 
+    color: black;
+    border-color: black;
+    border-radius: 30px;
+}  */
